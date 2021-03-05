@@ -2,6 +2,8 @@
 
 ![](https://github.com/revanks/Pressure-Drop-Prediction-Tool/blob/main/Images/2.png)
 
+<img src"https://github.com/revanks/Pressure-Drop-Prediction-Tool/blob/main/Images/2.png" width="100", height="50">
+
 ### About the tool
 
 Pressure characterization tool is a customized tool for real-time prediction of pressure drop and heat transfer characteristics of pipes. The tool has in-built automation with user friendly interface and is able to predict results within few seconds. 
