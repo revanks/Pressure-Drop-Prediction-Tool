@@ -24,3 +24,27 @@ information to start the evaluation.
 
 ### Tool GUI
 ![](https://github.com/revanks/Pressure-Drop-Prediction-Tool/blob/main/Images/3.png)
+
+### Language and Frameworks used:
+
+#### Languages
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+#### Libraries/Frameworks
+
+<code><img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"></code>
+
+#### GUI built with
+<code><img height="30" src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png"></code>
+![](https://github.com/PySimpleGUI/PySimpleGUI)
+
+
+
+
+
+
+
+
+
