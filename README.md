@@ -27,10 +27,10 @@ information to start the evaluation.
 
 ### Language and Frameworks used:
 
-#### Languages
+#### Language
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-#### Libraries/Frameworks
+#### Libraries
 
 <code><img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
