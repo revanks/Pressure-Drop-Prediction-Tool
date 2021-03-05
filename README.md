@@ -2,9 +2,8 @@
 
 ![](https://github.com/revanks/Pressure-Drop-Prediction-Tool/blob/main/Images/2.png)
 
-<img src="https://github.com/revanks/Pressure-Drop-Prediction-Tool/blob/main/Images/2.png" width="100", height="50">
 
-<code><img height="100" src="https://github.com/revanks/Pressure-Drop-Prediction-Tool/blob/main/Images/2.png"></code>
+<code><img width="1000" height="800" src="https://github.com/revanks/Pressure-Drop-Prediction-Tool/blob/main/Images/2.png"></code>
 
 ### About the tool
 
