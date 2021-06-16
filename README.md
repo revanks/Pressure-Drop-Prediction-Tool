@@ -16,3 +16,8 @@ The present study aims to develop a customized tool using open-source resources 
 
 ### GUI for 1D Pressure Drop Prediction in T-Juctions
 ![](https://github.com/revanks/Pressure-Drop-Prediction-Tool/blob/main/Images/T-jun.png)
+
+
+### Conclusion
+
+- More than 70% of the predictions lie within ±20% of the 3D CFD or experimental results. This level of confidence over the results is enough for system level optimization. This process is computationally inexpensive and the process is made completely automated to reduce manual error.
