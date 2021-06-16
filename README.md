@@ -1,7 +1,5 @@
 ## 1D Pressure Drop Prediction Tool
-- The single-phase and two-phase thermo-hydraulic evaluation of refrigerant pipes in an automotive vapor compression cycle is important while designing the system. 
-- The modeling of single-phase and two-phase flow in commercial 3D solvers is not only computationally expensive but many solver cannot capture the flow dynamics properly. 
-- To design efficient systems, the accurate prediction of pressure drop and heat transfer characteristics of pipes is necessary. 
+- The single-phase and two-phase thermo-hydraulic evaluation of refrigerant pipes in an automotive vapor compression cycle is important while designing the system.The modeling of single-phase and two-phase flow in commercial 3D solvers is not only computationally expensive but many solver cannot capture the flow dynamics properly.To design efficient systems, the accurate prediction of pressure drop and heat transfer characteristics of pipes is necessary. 
 The present study aims to develop a customized tool using open-source resources for characterization of pipes in real-time.
 
 ### Automotive VCR cycle
